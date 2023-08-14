@@ -27,7 +27,7 @@ export default function LogoSection() {
     },
   ];
   return (
-    <div className='mx-36 mt-20 text-center'>
+    <div className='mx-36 mt-20 text-center mb-72'>
       <p className='text-slate-300 inline-block '>
         Join 4,000+ companies already growing
       </p>
