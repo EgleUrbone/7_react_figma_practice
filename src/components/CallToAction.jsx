@@ -1,4 +1,5 @@
 import MainBtn from "./MainBtn";
+import SecondaryBtn from "./SecondaryBtn";
 
 function CallToAction() {
   return (
@@ -9,6 +10,7 @@ function CallToAction() {
       </div>
       <div>
         <MainBtn text={'Get Started'} />
+        <SecondaryBtn text={'Learn More'} />
       </div>
     </div>
   )
