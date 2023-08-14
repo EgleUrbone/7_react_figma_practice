@@ -26,8 +26,8 @@ function SidePointsSection() {
   ];
 
   return (
-    <div>
-      <div>
+    <div className='grid grid-cols-2 mx-36 items-center'>
+      <div className=''>
         {list.map((lObj) => (
           <SidePoint key={lObj.id} item={lObj} />
         ))}
