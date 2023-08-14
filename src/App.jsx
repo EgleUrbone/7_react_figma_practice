@@ -1,10 +1,11 @@
 import './App.css'
+import Navigation from './components/Navigations'
 import './index.css'
 
 function App() {
   return (
   <div>
-    <h1 className='from-zinc-800'>hielo</h1>
+    <Navigation />
   </div>
   )
 }
