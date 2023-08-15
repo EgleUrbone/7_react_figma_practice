@@ -2,6 +2,7 @@ export const pointsArr = [
   {
     id: 1,
     img: 'img/icons/Frame 18.png',
+    number: 'img/icons/Ellipse 1-01.png',
     alt: 'icon',
     title: 'Measure your performance',
     text: 'Stay connected with your team and make quick decisions wherever you are.',
@@ -9,6 +10,7 @@ export const pointsArr = [
   {
     id: 2,
     img: 'img/icons/Frame 18 (1).png',
+    number: 'img/icons/Ellipse 1-02.png',
     alt: 'icon',
     title: 'Custom analytics',
     text: 'Get a complete sales dashboard in the cloud. See activity, revenue and social metrics all in one place.',
@@ -16,6 +18,7 @@ export const pointsArr = [
   {
     id: 3,
     img: 'img/icons/Frame 18 (2).png',
+    number: 'img/icons/Ellipse 1-03.png',
     alt: 'icon',
     title: 'Team Management',
     text: 'Our calendar lets you know what is happening with customer and projects so you',
@@ -23,6 +26,7 @@ export const pointsArr = [
   {
     id: 4,
     img: 'img/icons/Frame 18 (3).png',
+    number: 'img/icons/Ellipse 1-04.png',
     alt: 'icon',
     title: 'Build your website',
     text: 'A tool that lets you build a dream website even if you know nothing about web design or programming.',
@@ -30,6 +34,7 @@ export const pointsArr = [
   {
     id: 5,
     img: 'img/icons/Frame 18 (4).png',
+    number: 'img/icons/Ellipse 1-05.png',
     alt: 'icon',
     title: 'Connect multiple apps',
     text: 'The first business platform to bring together all of your products from one place.',
@@ -37,6 +42,7 @@ export const pointsArr = [
   {
     id: 6,
     img: 'img/icons/Frame 18 (5).png',
+    number: 'img/icons/Ellipse 1-06.png',
     alt: 'icon',
     title: 'Easy setups',
     text: 'End to End Business Platform, Sales Management, Marketing Automation, Help Desk',

@@ -9,6 +9,8 @@ import CallToAction from './components/CallToAction'
 import SidePointsSection from './components/sidePointsSection/SidePointsSection'
 import HowItWorks from './components/howItWorks/HowItWorks'
 import PowerOfData from './components/PowerOfData'
+import NumberedPointsList from './components/pointsSection/NumberedPointsList'
+
 
 function App() {
   return (
@@ -23,6 +25,7 @@ function App() {
     <SidePointsSection />
     <HowItWorks />
     <PowerOfData />
+    <NumberedPointsList />
   </div>
   )
 }
