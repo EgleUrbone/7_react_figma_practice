@@ -1,5 +1,5 @@
-import MainBtn from './MainBtn';
-import SecondaryBtn from './SecondaryBtn';
+import MainBtn from './UI/MainBtn';
+import SecondaryBtn from './UI/SecondaryBtn';
 
 function CallToAction() {
   return (

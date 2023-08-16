@@ -1,5 +1,5 @@
-import MainBtn from '../MainBtn';
-import SectionTitle from '../SectionTitle';
+import MainBtn from '../UI/MainBtn';
+import SectionTitle from '../UI/SectionTitle';
 
 export default function HowItWorks() {
   return (

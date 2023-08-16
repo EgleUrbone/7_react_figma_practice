@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import MainBtn from './MainBtn';
+import MainBtn from './UI/MainBtn';
 
 function Main() {
   const [inputVal, setInputVal] = useState('');
